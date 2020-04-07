@@ -1,0 +1,22 @@
+{
+  "name": "react-syntax-highlighter-editable",
+  "version": "1.0.0",
+  "description": "Helper component with TextArea and render prop for react-syntax-highlighter",
+  "main": "dist/index.js",
+  "files":["dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Hallett",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.9.20",
+    "react": "^16.12.0"
+  },
+  "peerDependencies": {
+    "react": "^16"
+  },
+  "keywords":["react-syntax-highlighter"],
+  "homepage":"https://github.com/tonyhallett/react-syntax-highlighter-editable#readme",
+  "repository": "github:tonyhallettt/react-syntax-highlighter-editable"
+}
